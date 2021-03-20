@@ -1,3 +1,3 @@
-# Breeze color schemes
+# Plasma color schemes
 
-Light and dark Breeze color schemes.
+Light and dark Plasma color schemes.
