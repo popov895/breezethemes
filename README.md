@@ -1,3 +1,3 @@
-# Classic Breeze themes
+# Breeze color schemes
 
-Classic light and dark Breeze themes, without headers, that were before KDE Plasma 5.21.
+Light and dark Breeze color schemes.
